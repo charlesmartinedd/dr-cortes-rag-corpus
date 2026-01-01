@@ -1,0 +1,15 @@
+{
+  "id": "cortes_1976_three_perspectives",
+  "title": "Three Perspectives on Ethnicity: Blacks, Chicanos, and Native Americans",
+  "year": 1976,
+  "resource_type": "books",
+  "is_placeholder": true,
+  "placeholder_reason": "Out of print - not freely available",
+  "extraction": {
+    "status": "placeholder",
+    "method": "ai_generated_summary",
+    "generated_at": "2026-01-01T07:28:07.482014",
+    "word_count": 358
+  },
+  "isbn": "9780399503696"
+}

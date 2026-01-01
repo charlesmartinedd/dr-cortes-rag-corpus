@@ -1,0 +1,15 @@
+{
+  "id": "cortes_2013_multicultural_america",
+  "title": "Multicultural America: A Multimedia Encyclopedia (4 volumes)",
+  "year": 2013,
+  "resource_type": "reference",
+  "is_placeholder": true,
+  "placeholder_reason": "SAGE subscription required",
+  "extraction": {
+    "status": "placeholder",
+    "method": "ai_generated_summary",
+    "generated_at": "2026-01-01T07:28:07.483901",
+    "word_count": 304
+  },
+  "doi": "10.4135/9781452276274"
+}

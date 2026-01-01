@@ -3,22 +3,40 @@
   "corpus_name": "Dr. Carlos Cort\u00e9s Academic Corpus",
   "description": "Corpus for RAG - Multicultural education, diversity, ethnic studies",
   "source_bibliography": "https://github.com/alexandriasworld1234-source/carlosecortes/blob/main/Dr_Carlos_Cortes_Annotated_Bibliography_APA7.txt",
-  "generated_at": "2026-01-01T07:21:53.942714",
+  "generated_at": "2026-01-01T07:29:36.702488",
   "statistics": {
     "total_items_in_bibliography": 63,
     "items_downloaded": 21,
     "items_extracted": 21,
-    "total_word_count": 129959,
+    "total_word_count": 133136,
     "by_type": {
       "eric_docs": {
+        "count": 2,
+        "word_count": 106688
+      },
+      "books": {
+        "count": 5,
+        "word_count": 1840
+      },
+      "journal_articles": {
         "count": 1,
-        "word_count": 106304
+        "word_count": 316
       },
       "blog_posts": {
         "count": 20,
         "word_count": 23655
+      },
+      "reference": {
+        "count": 1,
+        "word_count": 304
+      },
+      "plays": {
+        "count": 1,
+        "word_count": 333
       }
-    }
+    },
+    "items_placeholder": 9,
+    "placeholder_word_count": 3177
   },
   "items": [
     {
@@ -28,6 +46,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 697,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\diversity-and-speech-33-bi-religious-by-carlos-cortes-gary-cortes.txt",
       "title": "Diversity and Speech #33: Bi-religious",
       "metadata_path": "metadata\\blog_posts\\diversity-and-speech-33-bi-religious-by-carlos-cortes-gary-cortes.json"
@@ -39,6 +58,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 703,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\diversity-and-speech-no-27-training-future-psychologists-using-the-lens-of-histo.txt",
       "title": "Diversity and Speech No. 27: Training Future Psychologists",
       "metadata_path": "metadata\\blog_posts\\diversity-and-speech-no-27-training-future-psychologists-using-the-lens-of-histo.json"
@@ -50,6 +70,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 786,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\diversity-and-speech-no-46-the-art-of-turning-90-by-carlos-cortes.txt",
       "title": "Diversity and Speech No. 46: The Art of Turning 90",
       "metadata_path": "metadata\\blog_posts\\diversity-and-speech-no-46-the-art-of-turning-90-by-carlos-cortes.json"
@@ -61,6 +82,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 924,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\diversity-and-speech-part-10-harmful-speech-2070-by-carlos-e-cortes.txt",
       "title": "Diversity and Speech Part 10: Harmful Speech 2070",
       "metadata_path": "metadata\\blog_posts\\diversity-and-speech-part-10-harmful-speech-2070-by-carlos-e-cortes.json"
@@ -72,6 +94,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 999,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\diversity-and-speech-part-11-dehumanizing-speech-2070-by-carlos-e-cortes.txt",
       "title": "Diversity and Speech Part 11: Dehumanizing Speech 2070",
       "metadata_path": "metadata\\blog_posts\\diversity-and-speech-part-11-dehumanizing-speech-2070-by-carlos-e-cortes.json"
@@ -83,6 +106,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 809,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\diversity-and-speech-part-14-health-equity-by-carlos-cortes-adwoa-osei.txt",
       "title": "Diversity and Speech Part 14: Health Equity",
       "metadata_path": "metadata\\blog_posts\\diversity-and-speech-part-14-health-equity-by-carlos-cortes-adwoa-osei.json"
@@ -94,6 +118,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 875,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\diversity-and-speech-part-18-hate-speech-by-carlos-e-cortes.txt",
       "title": "Diversity and Speech Part 18: Hate Speech",
       "metadata_path": "metadata\\blog_posts\\diversity-and-speech-part-18-hate-speech-by-carlos-e-cortes.json"
@@ -105,6 +130,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 742,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\diversity-and-speech-part-31-health-equity-by-carlos-cortes.txt",
       "title": "diversity-and-speech-part-31-health-equity-by-carlos-cortes"
     },
@@ -115,6 +141,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 713,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\diversity-and-speech-part-39-creating-health-equity-by-carlos-cortes.txt",
       "title": "diversity-and-speech-part-39-creating-health-equity-by-carlos-cortes"
     },
@@ -125,6 +152,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 1008,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\diversity-and-speech-part-44-generations-of-gender-talk-by-carlos-cortes.txt",
       "title": "Diversity and Speech Part 44: Generations of Gender Talk",
       "metadata_path": "metadata\\blog_posts\\diversity-and-speech-part-44-generations-of-gender-talk-by-carlos-cortes.json"
@@ -136,6 +164,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 896,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\diversity-speech-part-15-english-language-learners-by-carlos-cortes.txt",
       "title": "Diversity & Speech Part 15: English Language Learners",
       "metadata_path": "metadata\\blog_posts\\diversity-speech-part-15-english-language-learners-by-carlos-cortes.json"
@@ -147,6 +176,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 843,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\diversity-speech-part-16-creating-an-anti-racism-vision-statement-by-carlos-e-co.txt",
       "title": "Diversity & Speech Part 16: Creating an Anti-Racism Vision Statement",
       "metadata_path": "metadata\\blog_posts\\diversity-speech-part-16-creating-an-anti-racism-vision-statement-by-carlos-e-co.json"
@@ -158,6 +188,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 252,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\diversity-vs-free-speech-part-1-an-invented-conflict-by-carlos-e-cortes.txt",
       "title": "Diversity vs. Free Speech Part 1: An Invented Conflict",
       "metadata_path": "metadata\\blog_posts\\diversity-vs-free-speech-part-1-an-invented-conflict-by-carlos-e-cortes.json"
@@ -169,6 +200,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 2728,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\from-conditional-to-equitable-inclusion-by-carlos-cortes.txt",
       "title": "From Conditional to Equitable Inclusion",
       "metadata_path": "metadata\\blog_posts\\from-conditional-to-equitable-inclusion-by-carlos-cortes.json"
@@ -180,6 +212,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 1305,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\renewing-diversity-1-high-school-ethnic-studies-by-carlos-cortes.txt",
       "title": "Renewing Diversity #1: High School Ethnic Studies",
       "metadata_path": "metadata\\blog_posts\\renewing-diversity-1-high-school-ethnic-studies-by-carlos-cortes.json"
@@ -191,6 +224,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 1030,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\renewing-diversity-2-teaching-health-equity-by-carlos-cortes.txt",
       "title": "renewing-diversity-2-teaching-health-equity-by-carlos-cortes"
     },
@@ -201,6 +235,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 935,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\renewing-diversity-3-we-failed-george-floyd-by-carlos-cortes.txt",
       "title": "renewing-diversity-3-we-failed-george-floyd-by-carlos-cortes"
     },
@@ -211,6 +246,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 1296,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\renewing-diversity-part-11-the-mysterious-world-of-diversity-and-economics-by-ca.txt",
       "title": "renewing-diversity-part-11-the-mysterious-world-of-diversity-and-economics-by-ca"
     },
@@ -221,6 +257,7 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 1298,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\renewing-diversity-part-9-rediscovering-my-professional-journey-by-carlos-cortes.txt",
       "title": "Renewing Diversity Part 9: Rediscovering My Professional Journey",
       "metadata_path": "metadata\\blog_posts\\renewing-diversity-part-9-rediscovering-my-professional-journey-by-carlos-cortes.json"
@@ -232,9 +269,70 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 4816,
+      "is_placeholder": false,
       "extracted_path": "extracted\\blog_posts\\speech-vs-diversity-diversity-vs-speech-by-carlos-e-cortes.txt",
       "title": "Speech vs. Diversity, Diversity vs. Speech",
       "metadata_path": "metadata\\blog_posts\\speech-vs-diversity-diversity-vs-speech-by-carlos-e-cortes.json"
+    },
+    {
+      "resource_type": "books",
+      "title": "Ga\u00facho Politics in Brazil: The Politics of Rio Grande do Sul, 1930-1964",
+      "source_file": null,
+      "download_status": "not_available",
+      "extraction_status": "placeholder",
+      "extracted_path": "extracted\\books\\1974-Cortes-Gaucho-Politics-Brazil.txt",
+      "word_count": 370,
+      "is_placeholder": true,
+      "placeholder_reason": "Archive.org requires borrowing (403 Forbidden)",
+      "metadata_path": "metadata\\books\\1974-Cortes-Gaucho-Politics-Brazil.json"
+    },
+    {
+      "resource_type": "books",
+      "title": "Rose Hill: An Intermarriage Before Its Time",
+      "source_file": null,
+      "download_status": "not_available",
+      "extraction_status": "placeholder",
+      "extracted_path": "extracted\\books\\2012-Cortes-Rose-Hill.txt",
+      "word_count": 352,
+      "is_placeholder": true,
+      "placeholder_reason": "Commercial book - not freely available",
+      "metadata_path": "metadata\\books\\2012-Cortes-Rose-Hill.json"
+    },
+    {
+      "resource_type": "books",
+      "title": "The Children Are Watching: How the Media Teach About Diversity",
+      "source_file": null,
+      "download_status": "not_available",
+      "extraction_status": "placeholder",
+      "extracted_path": "extracted\\books\\2000-Cortes-Children-Are-Watching.txt",
+      "word_count": 389,
+      "is_placeholder": true,
+      "placeholder_reason": "Commercial book - not freely available",
+      "metadata_path": "metadata\\books\\2000-Cortes-Children-Are-Watching.json"
+    },
+    {
+      "resource_type": "books",
+      "title": "The Making\u2014and Remaking\u2014of a Multiculturalist",
+      "source_file": null,
+      "download_status": "not_available",
+      "extraction_status": "placeholder",
+      "extracted_path": "extracted\\books\\2002-Cortes-Making-Remaking-Multiculturalist.txt",
+      "word_count": 371,
+      "is_placeholder": true,
+      "placeholder_reason": "Archive.org requires borrowing (403 Forbidden)",
+      "metadata_path": "metadata\\books\\2002-Cortes-Making-Remaking-Multiculturalist.json"
+    },
+    {
+      "resource_type": "books",
+      "title": "Three Perspectives on Ethnicity: Blacks, Chicanos, and Native Americans",
+      "source_file": null,
+      "download_status": "not_available",
+      "extraction_status": "placeholder",
+      "extracted_path": "extracted\\books\\1976-Cortes-Three-Perspectives-Ethnicity.txt",
+      "word_count": 358,
+      "is_placeholder": true,
+      "placeholder_reason": "Out of print - not freely available",
+      "metadata_path": "metadata\\books\\1976-Cortes-Three-Perspectives-Ethnicity.json"
     },
     {
       "resource_type": "eric_docs",
@@ -243,9 +341,58 @@
       "download_status": "downloaded",
       "extraction_status": "completed",
       "word_count": 106304,
+      "is_placeholder": false,
       "extracted_path": "extracted\\eric_docs\\1973-Cortes-ED079204.txt",
       "title": "Teaching the Chicano Experience",
       "metadata_path": "metadata\\eric_docs\\1973-Cortes-ED079204.json"
+    },
+    {
+      "resource_type": "eric_docs",
+      "title": "The Education of Language Minority Students: A Contextual Interaction Model",
+      "source_file": null,
+      "download_status": "not_available",
+      "extraction_status": "placeholder",
+      "extracted_path": "extracted\\eric_docs\\1986-Cortes-Language-Minority-Students.txt",
+      "word_count": 384,
+      "is_placeholder": true,
+      "placeholder_reason": "ERIC document not available (404 error)",
+      "metadata_path": "metadata\\eric_docs\\1986-Cortes-Language-Minority-Students.json"
+    },
+    {
+      "resource_type": "journal_articles",
+      "title": "Renewing Multicultural Education",
+      "source_file": null,
+      "download_status": "not_available",
+      "extraction_status": "placeholder",
+      "extracted_path": "extracted\\journal_articles\\2025-Cortes-Renewing-Multicultural-Education.txt",
+      "word_count": 316,
+      "is_placeholder": true,
+      "placeholder_reason": "Recent publication - subscription required",
+      "metadata_path": "metadata\\journal_articles\\2025-Cortes-Renewing-Multicultural-Education.json"
+    },
+    {
+      "resource_type": "plays",
+      "title": "A Conversation with Alana",
+      "source_file": null,
+      "download_status": "not_available",
+      "extraction_status": "placeholder",
+      "extracted_path": "extracted\\plays\\2022-Cortes-Conversation-With-Alana.txt",
+      "word_count": 333,
+      "is_placeholder": true,
+      "placeholder_reason": "Self-published - purchase required",
+      "metadata_path": "metadata\\plays\\2022-Cortes-Conversation-With-Alana.json"
+    },
+    {
+      "resource_type": "reference",
+      "title": "Multicultural America: A Multimedia Encyclopedia (4 volumes)",
+      "source_file": null,
+      "download_status": "not_available",
+      "extraction_status": "placeholder",
+      "extracted_path": "extracted\\reference\\2013-Cortes-Multicultural-America-Encyclopedia.txt",
+      "word_count": 304,
+      "is_placeholder": true,
+      "placeholder_reason": "SAGE subscription required",
+      "metadata_path": "metadata\\reference\\2013-Cortes-Multicultural-America-Encyclopedia.json"
     }
   ]
 }

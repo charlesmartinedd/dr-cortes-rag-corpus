@@ -1,0 +1,15 @@
+{
+  "id": "cortes_2022_conversation_alana",
+  "title": "A Conversation with Alana",
+  "year": 2022,
+  "resource_type": "plays",
+  "is_placeholder": true,
+  "placeholder_reason": "Self-published - purchase required",
+  "extraction": {
+    "status": "placeholder",
+    "method": "ai_generated_summary",
+    "generated_at": "2026-01-01T07:28:07.487330",
+    "word_count": 333
+  },
+  "isbn": "9781694099695"
+}

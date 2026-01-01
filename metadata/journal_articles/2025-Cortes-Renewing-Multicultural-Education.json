@@ -1,0 +1,15 @@
+{
+  "id": "cortes_2025_renewing_multicultural",
+  "title": "Renewing Multicultural Education",
+  "year": 2025,
+  "resource_type": "journal_articles",
+  "is_placeholder": true,
+  "placeholder_reason": "Recent publication - subscription required",
+  "extraction": {
+    "status": "placeholder",
+    "method": "ai_generated_summary",
+    "generated_at": "2026-01-01T07:28:07.485563",
+    "word_count": 316
+  },
+  "doi": "10.1080/15210960.2025.2558492"
+}

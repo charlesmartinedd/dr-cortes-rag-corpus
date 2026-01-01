@@ -26,16 +26,17 @@ dr-cortes-rag-corpus/
 
 ## Corpus Statistics
 
-| Category | In Bibliography | Downloaded | Words |
-|----------|-----------------|------------|-------|
-| ERIC Docs | 2 | 1 | 106,304 |
-| Blog Posts | 28 | 20 | 23,655 |
-| Books | 7 | 0* | - |
-| Journal Articles | 2 | 0 | - |
-| Policy Docs | 5 | 0 | - |
-| **Total** | **63** | **21** | **129,959** |
+| Category | Downloaded | Placeholders | Words |
+|----------|------------|--------------|-------|
+| ERIC Docs | 1 | 1 | 106,688 |
+| Blog Posts | 20 | - | 23,655 |
+| Books | - | 5 | 1,840 |
+| Journal Articles | - | 1 | 316 |
+| Reference Works | - | 1 | 304 |
+| Plays | - | 1 | 333 |
+| **Total** | **21** | **9** | **133,136** |
 
-*Books on Archive.org require borrowing through their lending library.
+**Placeholders**: AI-generated one-page summaries for items that couldn't be downloaded (books requiring borrowing, paywalled articles, out-of-print works). These provide context for the RAG even when full text isn't available.
 
 ## Usage
 

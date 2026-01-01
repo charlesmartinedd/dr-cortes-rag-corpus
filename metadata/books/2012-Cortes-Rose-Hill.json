@@ -1,0 +1,15 @@
+{
+  "id": "cortes_2012_rose_hill",
+  "title": "Rose Hill: An Intermarriage Before Its Time",
+  "year": 2012,
+  "resource_type": "books",
+  "is_placeholder": true,
+  "placeholder_reason": "Commercial book - not freely available",
+  "extraction": {
+    "status": "placeholder",
+    "method": "ai_generated_summary",
+    "generated_at": "2026-01-01T07:28:07.479957",
+    "word_count": 352
+  },
+  "isbn": "9781597141888"
+}
