@@ -1,0 +1,19 @@
+{
+  "id": "blog_diversity-and-speech-part-10-harmful-speech-2070-b",
+  "title": "Diversity and Speech Part 10: Harmful Speech 2070",
+  "resource_type": "blog_post",
+  "series": "diversity_speech",
+  "source_info": {
+    "url": "https://americandiversityreport.com/diversity-and-speech-part-10-harmful-speech-2070-by-carlos-e-cortes/",
+    "downloaded_at": "2026-01-01T07:16:33.756139"
+  },
+  "file_info": {
+    "html_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\sources\\blog_posts\\diversity-and-speech-part-10-harmful-speech-2070-by-carlos-e-cortes.html",
+    "txt_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\extracted\\blog_posts\\diversity-and-speech-part-10-harmful-speech-2070-by-carlos-e-cortes.txt",
+    "word_count": 924
+  },
+  "extraction": {
+    "status": "completed",
+    "method": "beautifulsoup"
+  }
+}

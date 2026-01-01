@@ -1,0 +1,19 @@
+{
+  "id": "blog_renewing-diversity-1-high-school-ethnic-studies-by",
+  "title": "Renewing Diversity #1: High School Ethnic Studies",
+  "resource_type": "blog_post",
+  "series": "renewing_diversity",
+  "source_info": {
+    "url": "https://americandiversityreport.com/renewing-diversity-1-high-school-ethnic-studies-by-carlos-cortes/",
+    "downloaded_at": "2026-01-01T07:16:58.328052"
+  },
+  "file_info": {
+    "html_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\sources\\blog_posts\\renewing-diversity-1-high-school-ethnic-studies-by-carlos-cortes.html",
+    "txt_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\extracted\\blog_posts\\renewing-diversity-1-high-school-ethnic-studies-by-carlos-cortes.txt",
+    "word_count": 1305
+  },
+  "extraction": {
+    "status": "completed",
+    "method": "beautifulsoup"
+  }
+}

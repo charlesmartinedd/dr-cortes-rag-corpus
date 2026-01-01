@@ -1,0 +1,251 @@
+{
+  "version": "1.0",
+  "corpus_name": "Dr. Carlos Cort\u00e9s Academic Corpus",
+  "description": "Corpus for RAG - Multicultural education, diversity, ethnic studies",
+  "source_bibliography": "https://github.com/alexandriasworld1234-source/carlosecortes/blob/main/Dr_Carlos_Cortes_Annotated_Bibliography_APA7.txt",
+  "generated_at": "2026-01-01T07:21:53.942714",
+  "statistics": {
+    "total_items_in_bibliography": 63,
+    "items_downloaded": 21,
+    "items_extracted": 21,
+    "total_word_count": 129959,
+    "by_type": {
+      "eric_docs": {
+        "count": 1,
+        "word_count": 106304
+      },
+      "blog_posts": {
+        "count": 20,
+        "word_count": 23655
+      }
+    }
+  },
+  "items": [
+    {
+      "resource_type": "blog_posts",
+      "source_file": "diversity-and-speech-33-bi-religious-by-carlos-cortes-gary-cortes.html",
+      "source_path": "sources\\blog_posts\\diversity-and-speech-33-bi-religious-by-carlos-cortes-gary-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 697,
+      "extracted_path": "extracted\\blog_posts\\diversity-and-speech-33-bi-religious-by-carlos-cortes-gary-cortes.txt",
+      "title": "Diversity and Speech #33: Bi-religious",
+      "metadata_path": "metadata\\blog_posts\\diversity-and-speech-33-bi-religious-by-carlos-cortes-gary-cortes.json"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "diversity-and-speech-no-27-training-future-psychologists-using-the-lens-of-histo.html",
+      "source_path": "sources\\blog_posts\\diversity-and-speech-no-27-training-future-psychologists-using-the-lens-of-histo.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 703,
+      "extracted_path": "extracted\\blog_posts\\diversity-and-speech-no-27-training-future-psychologists-using-the-lens-of-histo.txt",
+      "title": "Diversity and Speech No. 27: Training Future Psychologists",
+      "metadata_path": "metadata\\blog_posts\\diversity-and-speech-no-27-training-future-psychologists-using-the-lens-of-histo.json"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "diversity-and-speech-no-46-the-art-of-turning-90-by-carlos-cortes.html",
+      "source_path": "sources\\blog_posts\\diversity-and-speech-no-46-the-art-of-turning-90-by-carlos-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 786,
+      "extracted_path": "extracted\\blog_posts\\diversity-and-speech-no-46-the-art-of-turning-90-by-carlos-cortes.txt",
+      "title": "Diversity and Speech No. 46: The Art of Turning 90",
+      "metadata_path": "metadata\\blog_posts\\diversity-and-speech-no-46-the-art-of-turning-90-by-carlos-cortes.json"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "diversity-and-speech-part-10-harmful-speech-2070-by-carlos-e-cortes.html",
+      "source_path": "sources\\blog_posts\\diversity-and-speech-part-10-harmful-speech-2070-by-carlos-e-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 924,
+      "extracted_path": "extracted\\blog_posts\\diversity-and-speech-part-10-harmful-speech-2070-by-carlos-e-cortes.txt",
+      "title": "Diversity and Speech Part 10: Harmful Speech 2070",
+      "metadata_path": "metadata\\blog_posts\\diversity-and-speech-part-10-harmful-speech-2070-by-carlos-e-cortes.json"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "diversity-and-speech-part-11-dehumanizing-speech-2070-by-carlos-e-cortes.html",
+      "source_path": "sources\\blog_posts\\diversity-and-speech-part-11-dehumanizing-speech-2070-by-carlos-e-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 999,
+      "extracted_path": "extracted\\blog_posts\\diversity-and-speech-part-11-dehumanizing-speech-2070-by-carlos-e-cortes.txt",
+      "title": "Diversity and Speech Part 11: Dehumanizing Speech 2070",
+      "metadata_path": "metadata\\blog_posts\\diversity-and-speech-part-11-dehumanizing-speech-2070-by-carlos-e-cortes.json"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "diversity-and-speech-part-14-health-equity-by-carlos-cortes-adwoa-osei.html",
+      "source_path": "sources\\blog_posts\\diversity-and-speech-part-14-health-equity-by-carlos-cortes-adwoa-osei.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 809,
+      "extracted_path": "extracted\\blog_posts\\diversity-and-speech-part-14-health-equity-by-carlos-cortes-adwoa-osei.txt",
+      "title": "Diversity and Speech Part 14: Health Equity",
+      "metadata_path": "metadata\\blog_posts\\diversity-and-speech-part-14-health-equity-by-carlos-cortes-adwoa-osei.json"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "diversity-and-speech-part-18-hate-speech-by-carlos-e-cortes.html",
+      "source_path": "sources\\blog_posts\\diversity-and-speech-part-18-hate-speech-by-carlos-e-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 875,
+      "extracted_path": "extracted\\blog_posts\\diversity-and-speech-part-18-hate-speech-by-carlos-e-cortes.txt",
+      "title": "Diversity and Speech Part 18: Hate Speech",
+      "metadata_path": "metadata\\blog_posts\\diversity-and-speech-part-18-hate-speech-by-carlos-e-cortes.json"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "diversity-and-speech-part-31-health-equity-by-carlos-cortes.html",
+      "source_path": "sources\\blog_posts\\diversity-and-speech-part-31-health-equity-by-carlos-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 742,
+      "extracted_path": "extracted\\blog_posts\\diversity-and-speech-part-31-health-equity-by-carlos-cortes.txt",
+      "title": "diversity-and-speech-part-31-health-equity-by-carlos-cortes"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "diversity-and-speech-part-39-creating-health-equity-by-carlos-cortes.html",
+      "source_path": "sources\\blog_posts\\diversity-and-speech-part-39-creating-health-equity-by-carlos-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 713,
+      "extracted_path": "extracted\\blog_posts\\diversity-and-speech-part-39-creating-health-equity-by-carlos-cortes.txt",
+      "title": "diversity-and-speech-part-39-creating-health-equity-by-carlos-cortes"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "diversity-and-speech-part-44-generations-of-gender-talk-by-carlos-cortes.html",
+      "source_path": "sources\\blog_posts\\diversity-and-speech-part-44-generations-of-gender-talk-by-carlos-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 1008,
+      "extracted_path": "extracted\\blog_posts\\diversity-and-speech-part-44-generations-of-gender-talk-by-carlos-cortes.txt",
+      "title": "Diversity and Speech Part 44: Generations of Gender Talk",
+      "metadata_path": "metadata\\blog_posts\\diversity-and-speech-part-44-generations-of-gender-talk-by-carlos-cortes.json"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "diversity-speech-part-15-english-language-learners-by-carlos-cortes.html",
+      "source_path": "sources\\blog_posts\\diversity-speech-part-15-english-language-learners-by-carlos-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 896,
+      "extracted_path": "extracted\\blog_posts\\diversity-speech-part-15-english-language-learners-by-carlos-cortes.txt",
+      "title": "Diversity & Speech Part 15: English Language Learners",
+      "metadata_path": "metadata\\blog_posts\\diversity-speech-part-15-english-language-learners-by-carlos-cortes.json"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "diversity-speech-part-16-creating-an-anti-racism-vision-statement-by-carlos-e-co.html",
+      "source_path": "sources\\blog_posts\\diversity-speech-part-16-creating-an-anti-racism-vision-statement-by-carlos-e-co.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 843,
+      "extracted_path": "extracted\\blog_posts\\diversity-speech-part-16-creating-an-anti-racism-vision-statement-by-carlos-e-co.txt",
+      "title": "Diversity & Speech Part 16: Creating an Anti-Racism Vision Statement",
+      "metadata_path": "metadata\\blog_posts\\diversity-speech-part-16-creating-an-anti-racism-vision-statement-by-carlos-e-co.json"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "diversity-vs-free-speech-part-1-an-invented-conflict-by-carlos-e-cortes.html",
+      "source_path": "sources\\blog_posts\\diversity-vs-free-speech-part-1-an-invented-conflict-by-carlos-e-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 252,
+      "extracted_path": "extracted\\blog_posts\\diversity-vs-free-speech-part-1-an-invented-conflict-by-carlos-e-cortes.txt",
+      "title": "Diversity vs. Free Speech Part 1: An Invented Conflict",
+      "metadata_path": "metadata\\blog_posts\\diversity-vs-free-speech-part-1-an-invented-conflict-by-carlos-e-cortes.json"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "from-conditional-to-equitable-inclusion-by-carlos-cortes.html",
+      "source_path": "sources\\blog_posts\\from-conditional-to-equitable-inclusion-by-carlos-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 2728,
+      "extracted_path": "extracted\\blog_posts\\from-conditional-to-equitable-inclusion-by-carlos-cortes.txt",
+      "title": "From Conditional to Equitable Inclusion",
+      "metadata_path": "metadata\\blog_posts\\from-conditional-to-equitable-inclusion-by-carlos-cortes.json"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "renewing-diversity-1-high-school-ethnic-studies-by-carlos-cortes.html",
+      "source_path": "sources\\blog_posts\\renewing-diversity-1-high-school-ethnic-studies-by-carlos-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 1305,
+      "extracted_path": "extracted\\blog_posts\\renewing-diversity-1-high-school-ethnic-studies-by-carlos-cortes.txt",
+      "title": "Renewing Diversity #1: High School Ethnic Studies",
+      "metadata_path": "metadata\\blog_posts\\renewing-diversity-1-high-school-ethnic-studies-by-carlos-cortes.json"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "renewing-diversity-2-teaching-health-equity-by-carlos-cortes.html",
+      "source_path": "sources\\blog_posts\\renewing-diversity-2-teaching-health-equity-by-carlos-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 1030,
+      "extracted_path": "extracted\\blog_posts\\renewing-diversity-2-teaching-health-equity-by-carlos-cortes.txt",
+      "title": "renewing-diversity-2-teaching-health-equity-by-carlos-cortes"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "renewing-diversity-3-we-failed-george-floyd-by-carlos-cortes.html",
+      "source_path": "sources\\blog_posts\\renewing-diversity-3-we-failed-george-floyd-by-carlos-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 935,
+      "extracted_path": "extracted\\blog_posts\\renewing-diversity-3-we-failed-george-floyd-by-carlos-cortes.txt",
+      "title": "renewing-diversity-3-we-failed-george-floyd-by-carlos-cortes"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "renewing-diversity-part-11-the-mysterious-world-of-diversity-and-economics-by-ca.html",
+      "source_path": "sources\\blog_posts\\renewing-diversity-part-11-the-mysterious-world-of-diversity-and-economics-by-ca.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 1296,
+      "extracted_path": "extracted\\blog_posts\\renewing-diversity-part-11-the-mysterious-world-of-diversity-and-economics-by-ca.txt",
+      "title": "renewing-diversity-part-11-the-mysterious-world-of-diversity-and-economics-by-ca"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "renewing-diversity-part-9-rediscovering-my-professional-journey-by-carlos-cortes.html",
+      "source_path": "sources\\blog_posts\\renewing-diversity-part-9-rediscovering-my-professional-journey-by-carlos-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 1298,
+      "extracted_path": "extracted\\blog_posts\\renewing-diversity-part-9-rediscovering-my-professional-journey-by-carlos-cortes.txt",
+      "title": "Renewing Diversity Part 9: Rediscovering My Professional Journey",
+      "metadata_path": "metadata\\blog_posts\\renewing-diversity-part-9-rediscovering-my-professional-journey-by-carlos-cortes.json"
+    },
+    {
+      "resource_type": "blog_posts",
+      "source_file": "speech-vs-diversity-diversity-vs-speech-by-carlos-e-cortes.html",
+      "source_path": "sources\\blog_posts\\speech-vs-diversity-diversity-vs-speech-by-carlos-e-cortes.html",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 4816,
+      "extracted_path": "extracted\\blog_posts\\speech-vs-diversity-diversity-vs-speech-by-carlos-e-cortes.txt",
+      "title": "Speech vs. Diversity, Diversity vs. Speech",
+      "metadata_path": "metadata\\blog_posts\\speech-vs-diversity-diversity-vs-speech-by-carlos-e-cortes.json"
+    },
+    {
+      "resource_type": "eric_docs",
+      "source_file": "1973-Cortes-ED079204.pdf",
+      "source_path": "sources\\eric_docs\\1973-Cortes-ED079204.pdf",
+      "download_status": "downloaded",
+      "extraction_status": "completed",
+      "word_count": 106304,
+      "extracted_path": "extracted\\eric_docs\\1973-Cortes-ED079204.txt",
+      "title": "Teaching the Chicano Experience",
+      "metadata_path": "metadata\\eric_docs\\1973-Cortes-ED079204.json"
+    }
+  ]
+}

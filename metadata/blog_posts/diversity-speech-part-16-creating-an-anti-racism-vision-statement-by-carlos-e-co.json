@@ -1,0 +1,19 @@
+{
+  "id": "blog_diversity-speech-part-16-creating-an-anti-racism-v",
+  "title": "Diversity & Speech Part 16: Creating an Anti-Racism Vision Statement",
+  "resource_type": "blog_post",
+  "series": "diversity_speech",
+  "source_info": {
+    "url": "https://americandiversityreport.com/diversity-speech-part-16-creating-an-anti-racism-vision-statement-by-carlos-e-cortes/",
+    "downloaded_at": "2026-01-01T07:16:41.166003"
+  },
+  "file_info": {
+    "html_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\sources\\blog_posts\\diversity-speech-part-16-creating-an-anti-racism-vision-statement-by-carlos-e-co.html",
+    "txt_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\extracted\\blog_posts\\diversity-speech-part-16-creating-an-anti-racism-vision-statement-by-carlos-e-co.txt",
+    "word_count": 843
+  },
+  "extraction": {
+    "status": "completed",
+    "method": "beautifulsoup"
+  }
+}

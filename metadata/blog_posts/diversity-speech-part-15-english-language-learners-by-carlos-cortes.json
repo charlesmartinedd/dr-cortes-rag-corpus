@@ -1,0 +1,19 @@
+{
+  "id": "blog_diversity-speech-part-15-english-language-learners",
+  "title": "Diversity & Speech Part 15: English Language Learners",
+  "resource_type": "blog_post",
+  "series": "diversity_speech",
+  "source_info": {
+    "url": "https://americandiversityreport.com/diversity-speech-part-15-english-language-learners-by-carlos-cortes/",
+    "downloaded_at": "2026-01-01T07:16:38.685368"
+  },
+  "file_info": {
+    "html_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\sources\\blog_posts\\diversity-speech-part-15-english-language-learners-by-carlos-cortes.html",
+    "txt_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\extracted\\blog_posts\\diversity-speech-part-15-english-language-learners-by-carlos-cortes.txt",
+    "word_count": 896
+  },
+  "extraction": {
+    "status": "completed",
+    "method": "beautifulsoup"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "blog_diversity-and-speech-part-14-health-equity-by-carl",
+  "title": "Diversity and Speech Part 14: Health Equity",
+  "resource_type": "blog_post",
+  "series": "diversity_speech",
+  "source_info": {
+    "url": "https://americandiversityreport.com/diversity-and-speech-part-14-health-equity-by-carlos-cortes-adwoa-osei/",
+    "downloaded_at": "2026-01-01T07:16:55.907368"
+  },
+  "file_info": {
+    "html_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\sources\\blog_posts\\diversity-and-speech-part-14-health-equity-by-carlos-cortes-adwoa-osei.html",
+    "txt_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\extracted\\blog_posts\\diversity-and-speech-part-14-health-equity-by-carlos-cortes-adwoa-osei.txt",
+    "word_count": 809
+  },
+  "extraction": {
+    "status": "completed",
+    "method": "beautifulsoup"
+  }
+}

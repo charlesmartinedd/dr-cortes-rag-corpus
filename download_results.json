@@ -1,0 +1,95 @@
+{
+  "started_at": "2026-01-01T07:16:23.614273",
+  "eric_docs": [
+    {
+      "id": "ED079204",
+      "status": "downloaded",
+      "path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\sources\\eric_docs\\1973-Cortes-ED079204.pdf"
+    },
+    {
+      "id": "ED304241",
+      "status": "failed"
+    }
+  ],
+  "archive_org": {
+    "status": "failed"
+  },
+  "blog_posts": [
+    {
+      "title": "Speech vs. Diversity, Diversity vs. Speech",
+      "status": "downloaded",
+      "words": 4816
+    },
+    {
+      "title": "Diversity vs. Free Speech Part 1: An Invented Conflict",
+      "status": "downloaded",
+      "words": 252
+    },
+    {
+      "title": "Diversity and Speech Part 10: Harmful Speech 2070",
+      "status": "downloaded",
+      "words": 924
+    },
+    {
+      "title": "Diversity and Speech Part 11: Dehumanizing Speech 2070",
+      "status": "downloaded",
+      "words": 999
+    },
+    {
+      "title": "Diversity & Speech Part 15: English Language Learners",
+      "status": "downloaded",
+      "words": 896
+    },
+    {
+      "title": "Diversity & Speech Part 16: Creating an Anti-Racism Vision Statement",
+      "status": "downloaded",
+      "words": 843
+    },
+    {
+      "title": "Diversity and Speech Part 18: Hate Speech",
+      "status": "downloaded",
+      "words": 875
+    },
+    {
+      "title": "Diversity and Speech No. 27: Training Future Psychologists",
+      "status": "downloaded",
+      "words": 703
+    },
+    {
+      "title": "Diversity and Speech #33: Bi-religious",
+      "status": "downloaded",
+      "words": 697
+    },
+    {
+      "title": "Diversity and Speech Part 44: Generations of Gender Talk",
+      "status": "downloaded",
+      "words": 1008
+    },
+    {
+      "title": "Diversity and Speech No. 46: The Art of Turning 90",
+      "status": "downloaded",
+      "words": 786
+    },
+    {
+      "title": "Diversity and Speech Part 14: Health Equity",
+      "status": "downloaded",
+      "words": 809
+    },
+    {
+      "title": "Renewing Diversity #1: High School Ethnic Studies",
+      "status": "downloaded",
+      "words": 1305
+    },
+    {
+      "title": "Renewing Diversity Part 9: Rediscovering My Professional Journey",
+      "status": "downloaded",
+      "words": 1298
+    },
+    {
+      "title": "From Conditional to Equitable Inclusion",
+      "status": "downloaded",
+      "words": 2728
+    }
+  ],
+  "completed_at": "2026-01-01T07:17:05.394280"
+}

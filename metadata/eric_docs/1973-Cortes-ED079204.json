@@ -1,0 +1,24 @@
+{
+  "id": "ed079204",
+  "title": "Teaching the Chicano Experience",
+  "resource_type": "eric_document",
+  "source_info": {
+    "url": "https://files.eric.ed.gov/fulltext/ED079204.pdf",
+    "downloaded_at": "2026-01-01T07:16:24.501043"
+  },
+  "file_info": {
+    "source_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\sources\\eric_docs\\1973-Cortes-ED079204.pdf",
+    "source_size_bytes": 6626364,
+    "source_md5": "44ee0261e21cb27e02eddb88034f9747",
+    "extracted_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\extracted\\eric_docs\\1973-Cortes-ED079204.txt"
+  },
+  "extraction": {
+    "status": "completed",
+    "method": "pypdf",
+    "extracted_at": "2026-01-01T07:19:38.813173",
+    "word_count": 106304,
+    "page_count": 318
+  },
+  "year": 1973,
+  "eric_id": "ED079204"
+}

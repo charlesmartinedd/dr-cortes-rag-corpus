@@ -1,0 +1,19 @@
+{
+  "id": "blog_diversity-vs-free-speech-part-1-an-invented-confli",
+  "title": "Diversity vs. Free Speech Part 1: An Invented Conflict",
+  "resource_type": "blog_post",
+  "series": "diversity_speech",
+  "source_info": {
+    "url": "https://americandiversityreport.com/diversity-vs-free-speech-part-1-an-invented-conflict-by-carlos-e-cortes/",
+    "downloaded_at": "2026-01-01T07:16:31.246944"
+  },
+  "file_info": {
+    "html_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\sources\\blog_posts\\diversity-vs-free-speech-part-1-an-invented-conflict-by-carlos-e-cortes.html",
+    "txt_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\extracted\\blog_posts\\diversity-vs-free-speech-part-1-an-invented-conflict-by-carlos-e-cortes.txt",
+    "word_count": 252
+  },
+  "extraction": {
+    "status": "completed",
+    "method": "beautifulsoup"
+  }
+}

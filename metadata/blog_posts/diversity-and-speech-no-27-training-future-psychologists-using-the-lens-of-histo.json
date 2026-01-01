@@ -1,0 +1,19 @@
+{
+  "id": "blog_diversity-and-speech-no-27-training-future-psychol",
+  "title": "Diversity and Speech No. 27: Training Future Psychologists",
+  "resource_type": "blog_post",
+  "series": "diversity_speech",
+  "source_info": {
+    "url": "https://americandiversityreport.com/diversity-and-speech-no-27-training-future-psychologists-using-the-lens-of-history-by-carlos-e-cortes-marjorie-graham-howard/",
+    "downloaded_at": "2026-01-01T07:16:46.100384"
+  },
+  "file_info": {
+    "html_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\sources\\blog_posts\\diversity-and-speech-no-27-training-future-psychologists-using-the-lens-of-histo.html",
+    "txt_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\extracted\\blog_posts\\diversity-and-speech-no-27-training-future-psychologists-using-the-lens-of-histo.txt",
+    "word_count": 703
+  },
+  "extraction": {
+    "status": "completed",
+    "method": "beautifulsoup"
+  }
+}

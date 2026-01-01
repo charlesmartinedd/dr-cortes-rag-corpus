@@ -1,0 +1,19 @@
+{
+  "id": "blog_diversity-and-speech-33-bi-religious-by-carlos-cor",
+  "title": "Diversity and Speech #33: Bi-religious",
+  "resource_type": "blog_post",
+  "series": "diversity_speech",
+  "source_info": {
+    "url": "https://americandiversityreport.com/diversity-and-speech-33-bi-religious-by-carlos-cortes-gary-cortes/",
+    "downloaded_at": "2026-01-01T07:16:48.545651"
+  },
+  "file_info": {
+    "html_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\sources\\blog_posts\\diversity-and-speech-33-bi-religious-by-carlos-cortes-gary-cortes.html",
+    "txt_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\extracted\\blog_posts\\diversity-and-speech-33-bi-religious-by-carlos-cortes-gary-cortes.txt",
+    "word_count": 697
+  },
+  "extraction": {
+    "status": "completed",
+    "method": "beautifulsoup"
+  }
+}

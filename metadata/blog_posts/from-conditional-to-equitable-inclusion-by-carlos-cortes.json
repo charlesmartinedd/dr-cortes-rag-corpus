@@ -1,0 +1,19 @@
+{
+  "id": "blog_from-conditional-to-equitable-inclusion-by-carlos-",
+  "title": "From Conditional to Equitable Inclusion",
+  "resource_type": "blog_post",
+  "series": "standalone",
+  "source_info": {
+    "url": "https://americandiversityreport.com/from-conditional-to-equitable-inclusion-by-carlos-cortes/",
+    "downloaded_at": "2026-01-01T07:17:03.392672"
+  },
+  "file_info": {
+    "html_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\sources\\blog_posts\\from-conditional-to-equitable-inclusion-by-carlos-cortes.html",
+    "txt_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\extracted\\blog_posts\\from-conditional-to-equitable-inclusion-by-carlos-cortes.txt",
+    "word_count": 2728
+  },
+  "extraction": {
+    "status": "completed",
+    "method": "beautifulsoup"
+  }
+}

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Large files (keep in .gitattributes LFS if needed)
+# sources/**/*.pdf
+# Uncomment above if PDFs are too large for GitHub
+
+# Logs
+logs/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

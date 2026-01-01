@@ -1,0 +1,19 @@
+{
+  "id": "blog_diversity-and-speech-no-46-the-art-of-turning-90-b",
+  "title": "Diversity and Speech No. 46: The Art of Turning 90",
+  "resource_type": "blog_post",
+  "series": "diversity_speech",
+  "source_info": {
+    "url": "https://americandiversityreport.com/diversity-and-speech-no-46-the-art-of-turning-90-by-carlos-cortes/",
+    "downloaded_at": "2026-01-01T07:16:53.453941"
+  },
+  "file_info": {
+    "html_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\sources\\blog_posts\\diversity-and-speech-no-46-the-art-of-turning-90-by-carlos-cortes.html",
+    "txt_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\extracted\\blog_posts\\diversity-and-speech-no-46-the-art-of-turning-90-by-carlos-cortes.txt",
+    "word_count": 786
+  },
+  "extraction": {
+    "status": "completed",
+    "method": "beautifulsoup"
+  }
+}

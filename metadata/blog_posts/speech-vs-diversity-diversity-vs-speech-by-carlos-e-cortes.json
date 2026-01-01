@@ -1,0 +1,19 @@
+{
+  "id": "blog_speech-vs-diversity-diversity-vs-speech-by-carlos-",
+  "title": "Speech vs. Diversity, Diversity vs. Speech",
+  "resource_type": "blog_post",
+  "series": "diversity_speech",
+  "source_info": {
+    "url": "https://americandiversityreport.com/speech-vs-diversity-diversity-vs-speech-by-carlos-e-cortes/",
+    "downloaded_at": "2026-01-01T07:16:28.746756"
+  },
+  "file_info": {
+    "html_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\sources\\blog_posts\\speech-vs-diversity-diversity-vs-speech-by-carlos-e-cortes.html",
+    "txt_path": "C:\\Users\\MarieLexisDad\\repos\\dr-cortes-rag-corpus\\extracted\\blog_posts\\speech-vs-diversity-diversity-vs-speech-by-carlos-e-cortes.txt",
+    "word_count": 4816
+  },
+  "extraction": {
+    "status": "completed",
+    "method": "beautifulsoup"
+  }
+}
